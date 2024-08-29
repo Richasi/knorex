@@ -66,8 +66,6 @@ Run the Frontend Application:
 # depploy link backend :- https://knorex-backend.onrender.com/
 
 
-
-
 ## Features
 ### 1. Usage
 #### Listing Users
